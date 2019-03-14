@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intent_explicit</string>
+    <string name="przejdz">Przejdz</string>
+    <string name="wroc">Wroc!</string>
+</resources>
